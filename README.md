@@ -1,5 +1,3 @@
-# SingleShotFontChange
-
 # Single Shot Font Change
 In a Single shot change font of Entire Android Application
 
