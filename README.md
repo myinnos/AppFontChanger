@@ -22,7 +22,7 @@ And then in the other gradle file(may be your app gradle or your own module libr
 	
 How to use
 -----
-**Step 1:** add default font to styles:
+**Step 1:** add default font to styles, Here i added serif font as default:
 
 ```
 <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
@@ -38,13 +38,7 @@ How to use
 
  ```
  public class AppBaseApplication extends Application {
-    
-   	 @Override
-    	protected void attachBaseContext(Context base) {
-        	super.attachBaseContext(base);
-        	MultiDex.install(this);
-    	}
-
+ 
     	@Override
     	public void onCreate() {
         	super.onCreate();
