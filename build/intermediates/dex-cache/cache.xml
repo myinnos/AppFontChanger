@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\10\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\bitbucket\CustomFont\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_b8ee37f876fb5875de9b3f6f453cf130fd2f307b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\CustomFont\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="E:\bitbucket\CustomFont\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_8b7833f788e62c6770c9f017ca9e64725db17911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\CustomFont\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="E:\bitbucket\CustomFont\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_5325daa95f330557424d4341906759aa0fa24b09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\CustomFont\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\bitbucket\CustomFont\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_3aaa40d05dc68c6c25cfe3f160947590515316ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\CustomFont\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\bitbucket\CustomFont\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_08eb8d34106e34468edd445bc1db0c652fa0c6d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\CustomFont\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="E:\bitbucket\CustomFont\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_35ddfb66026c9d6bc8807d3f21e8c224699233ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\CustomFont\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="E:\bitbucket\CustomFont\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_11e56f22473add7b85c7036ce4a9db060920560b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\CustomFont\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="E:\bitbucket\CustomFont\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_fddbe14a8530cfd68c8a2e1e1596186037750456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\CustomFont\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="E:\bitbucket\CustomFont\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_2d8c27d62034278824d27dac5f8f10ec4a568e62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\CustomFont\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="E:\bitbucket\CustomFont\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_0c08b57996d838c85f8e962ed0c641d65bb3573d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\bitbucket\CustomFont\app\build\intermediates\exploded-aar\com.github.jitpack\customfontlibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e7aa7e0c738b5f2440063e0bea55d62afe20ca9">
+        <dex dex="E:\bitbucket\CustomFont\app\build\intermediates\pre-dexed\debug\com.github.jitpack-customfontlibrary-unspecified_c54436e12f9e5ec94e65d3f2f329b041562a5bae.jar" />
+    </item>
+
+</items>
