@@ -1,5 +1,5 @@
 # AppFontChanger
-In a Single shot change font of Entire Android Application
+In a Single shot change font of Entire Android Application - TextViews, EditText, Buttons, Views etc., 
 
  ![AppFontChanger - Example](https://s19.postimg.org/j4ivto00z/singleshot_custom_font.png)
   
