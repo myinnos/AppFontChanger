@@ -5,26 +5,25 @@ In a Single shot change font of Entire Android Application - TextViews, EditText
   
 #### Kindly use the following links to use this library:
 
-In build.gradle (Project)
-
-	allprojects {
-		repositories {
+```java
+allprojects {
+  repositories {
 			...
-			maven { url "https://jitpack.io" }
-		}
+		maven { url "https://jitpack.io" }
 	}
-	
+}
+```
 And then in the other gradle file(may be your app gradle or your own module library gradle, but never add in both of them to avoid conflict.)
-	
-	 dependencies {
-            compile 'com.github.myinnos:AppFontChanger:1.0'
-	        }
-	
+```java
+dependencies {
+	compile 'com.github.myinnos:AppFontChanger:1.0'
+}
+```
 How to use
 -----
 **Step 1:** add default font to styles, Here i added serif font as default:
 
-```
+```xml
 <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
@@ -36,7 +35,7 @@ How to use
  
  **Step 2:** add custom font in application level to override style font:
 
- ```
+ ```java
  public class AppBaseApplication extends Application {
  
     	@Override
